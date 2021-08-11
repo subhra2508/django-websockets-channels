@@ -1,0 +1,4 @@
+chatenv
+mysite/chat/__pycache__
+mysite/mysite/__pycache__
+mysite/chat/migrations/__pycache__
